@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Aubin Darcy Irakoze
 
-<!--
-**Darcythiam/Darcythiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science major at Saint Cloud State University (Graduating Dec 2026)  
+💻 Full-stack & Cloud Developer | AI/ML Enthusiast | Open-Source Contributor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔧 Building scalable, data-driven applications using **Python**, **C++**, and **TypeScript**
+- ☁️ Experienced with **Docker**, **AWS**, and distributed systems (e.g., Delta Lake)
+- 🧩 Focused on **database design**, **DevOps**, and **applied machine learning**
+- 🧠 Contributor to the **Avatar BCI Research Project**
+- 🌱 Always learning more about **cloud architecture** and **AI-powered automation**
+
+---
+
+### 🧰 Tech Stack
+**Languages:** Python | C++ | SQL | JavaScript/TypeScript | HTML/CSS  
+**Frameworks:** Flask | React | Qt/QML | Node.js  
+**Databases:** PostgreSQL | MySQL | SQLite | MongoDB  
+**Cloud/DevOps:** AWS | Docker | GitHub Actions | CI/CD  
+**Tools:** Linux | VS Code | Git | Jupyter | PySide6  
+
+---
+
+### 📊 GitHub Stats
+![Darcy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darcythiam&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/darcyirakoze/) • [Email](mailto:darcyirakoze6@gmail.com) • [Portfolio](https://github.com/Darcythiam)
+
+---
+
+⭐ *“Code that solves problems, scales with purpose, and inspires curiosity.”*
