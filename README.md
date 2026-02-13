@@ -24,10 +24,9 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-![Darcy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darcythiam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darcythiam&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Darcythiam&theme=tokyonight&hide_border=true)
+![Darcy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darcythiam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+&include_all_commits=true
+&langs_count=10
 
 ---
 
