@@ -32,7 +32,7 @@ jobs:
           plugin_languages_limit: 10
 
           plugin_repositories: yes
-          plugin_repositories_featured: Avatar_Darcyfork, OpenSpot_2022, threaded_toons
+          plugin_repositories_featured: Avatar_Darcyfork , toons-flag-chase , Openspot_2022 , PITRON 
           plugin_repositories_order: pinned, starred, random
 
           plugin_activity: yes
