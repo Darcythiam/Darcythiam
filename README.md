@@ -1,35 +1,74 @@
-# 👋 Hi, I'm Aubin Darcy Irakoze
+# Aubin Darcy Irakoze
 
-🎓 Computer Science major at Saint Cloud State University (Graduating Dec 2026)  
-💻 Full-stack & Cloud Developer | AI/ML Enthusiast | Open-Source Contributor  
-
----
-
-### 🚀 About Me
-- 🔧 Building scalable, data-driven applications using **Python**, **C++**, and **TypeScript**
-- ☁️ Experienced with **Docker**, **AWS**, and distributed systems (e.g., Delta Lake)
-- 🧩 Focused on **database design**, **DevOps**, and **applied machine learning**
-- 🧠 Contributor to the **Avatar BCI Research Project**
-- 🌱 Always learning more about **cloud architecture** and **AI-powered automation**
+**Software Engineer • Backend Systems • Applied AI/ML • Cloud Infrastructure**
+Computer Science — Saint Cloud State University (Dec 2026)
 
 ---
 
-### 🧰 Tech Stack
-**Languages:** Python | C++ | SQL | JavaScript/TypeScript | HTML/CSS  
-**Frameworks:** Flask | React | Qt/QML | Node.js  
-**Databases:** PostgreSQL | MySQL | SQLite | MongoDB  
-**Cloud/DevOps:** AWS | Docker | GitHub Actions | CI/CD  
-**Tools:** Linux | VS Code | Git | Jupyter | PySide6  
+## About
+
+I build scalable systems that combine **backend engineering, distributed infrastructure, and machine learning**.
+Driven by problem-solving and building reliable, scalable systems through projects and open-source contributions.
+
+Currently working on:
+
+* Brain-Computer Interface (BCI) research software
+* Cloud-deployed applications (AWS + Docker + CI/CD)
+* Applied ML pipelines and model integration
+* Systems programming and performance optimization
 
 ---
 
-### 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darcythiam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800)
+## Technical Stack
+
+### Languages
+
+Python • C++ • Rust • SQL • TypeScript • JavaScript • Bash
+
+### Backend & APIs
+
+Flask • Node.js • REST API Design • Authentication • Serialization • Async Processing
+
+### Machine Learning & Data
+
+TensorFlow • Scikit-learn • Random Forest • Pandas • NumPy • Data Pipelines • Model Evaluation
+
+### Systems & Infrastructure
+
+Linux • Docker • AWS • GitHub Actions • CI/CD • Distributed Storage • Networking
+
+### Databases
+
+PostgreSQL • MySQL • SQLite • MongoDB
+
+### Frontend / Interface
+
+React • Qt/QML • HTML/CSS
+
 ---
 
-### 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/darcyirakoze/) • [Email](mailto:darcyirakoze6@gmail.com) • [Portfolio](https://github.com/Darcythiam)
+## Engineering Interests
+
+* Distributed Systems & Storage
+* AI-integrated Applications
+* Backend Architecture
+* Performance Optimization
+* Developer Infrastructure
 
 ---
 
-⭐ *“Code that solves problems, scales with purpose, and inspires curiosity.”*
+## GitHub Activity
+
+<img height="165" src="https://stats.dooboo.io/api/github-stats-advanced?username=Darcythiam" />
+<img height="165" src="https://streak-stats.demolab.com?user=Darcythiam&theme=tokyonight&hide_border=true" />
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/darcyirakoze
+Email: [darcyirakoze6@gmail.com](mailto:darcyirakoze6@gmail.com)
+
+---
+
+*"Build software that survives real users, real data, and real scale."*
