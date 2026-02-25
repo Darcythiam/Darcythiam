@@ -50,9 +50,7 @@ React • Qt/QML • HTML • CSS
 ---
 
 ## GitHub Activity
-<img height="165" src="https://stats.dooboo.io/api/github-stats-advanced?username=Darcythiam" />
-<img height="165" src="https://stats.dooboo.io/api/github-trophies?username=Darcythiam" />
-<img height="165" src="https://streak-stats.demolab.com?user=Darcythiam&theme=tokyonight&hide_border=true" />
+![GitHub Metrics](./github-metrics.svg)
 
 ---
 
