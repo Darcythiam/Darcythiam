@@ -1,4 +1,4 @@
-# 👋 Aubin Darcy Irakoze
+# Aubin Darcy Irakoze
 
 **Software Engineer • Backend Systems • Applied AI/ML • Cloud Infrastructure**  
 Computer Science — Saint Cloud State University (Dec 2026)
@@ -50,8 +50,9 @@ React • Qt/QML • HTML • CSS
 ---
 
 ## GitHub Activity
-<img height="165" src="https://stats.dooboo.io/api/github-stats-advanced?username=Darcythiam" />
-
+<p align="left">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Darcythiam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
 ---
 
 ## Contact
