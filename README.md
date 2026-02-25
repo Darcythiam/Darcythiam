@@ -50,9 +50,10 @@ React • Qt/QML • HTML • CSS
 ---
 
 ## GitHub Activity
-<p align="left">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Darcythiam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
+<img height="165" src="https://stats.dooboo.io/api/github-stats-advanced?username=Darcythiam" />
+<img height="165" src="https://stats.dooboo.io/api/github-trophies?username=Darcythiam" />
+<img height="165" src="https://streak-stats.demolab.com?user=Darcythiam&theme=tokyonight&hide_border=true" />
+
 ---
 
 ## Contact
