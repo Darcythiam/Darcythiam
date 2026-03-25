@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Generate metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Darcythiam
@@ -25,21 +25,19 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
 
-          # GOOD SIGNALS (keep these)
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 10
 
           plugin_repositories: yes
-          plugin_repositories_featured: Avatar_Darcyfork , toons-flag-chase , Openspot_2022 , PITRON 
-          plugin_repositories_order: pinned, starred, random
+          plugin_repositories_featured: Avatar_Darcyfork,toons-flag-chase,Openspot_2022,PITRON
+          plugin_repositories_order: pinned,starred,random
 
           plugin_activity: yes
           plugin_activity_limit: 6
           plugin_activity_days: 14
 
-          # REMOVE NEGATIVE SIGNALS
           plugin_isocalendar: no
           plugin_habits: no
           plugin_stars: no
