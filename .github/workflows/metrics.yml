@@ -34,7 +34,7 @@ jobs:
           plugin_repositories_featured: Avatar_Darcyfork,toons-flag-chase,Openspot_2022,PITRON
           plugin_repositories_order: pinned,starred,random
 
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_limit: 2000
           plugin_activity_days: 2000
 
