@@ -28,15 +28,15 @@ jobs:
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          plugin_languages_limit: 10
+          plugin_languages_limit: 90
 
           plugin_repositories: yes
           plugin_repositories_featured: Avatar_Darcyfork,toons-flag-chase,Openspot_2022,PITRON
           plugin_repositories_order: pinned,starred,random
 
           plugin_activity: yes
-          plugin_activity_limit: 6
-          plugin_activity_days: 14
+          plugin_activity_limit: 2000
+          plugin_activity_days: 2000
 
           plugin_isocalendar: no
           plugin_habits: no
