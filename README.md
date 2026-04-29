@@ -63,8 +63,8 @@ I build end-to-end systems that combine backend engineering, data processing, an
 ## GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Darcythiam&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darcythiam&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img height="160" src="https://github-readme-stats-beryl-one-30.vercel.app/api?username=Darcythiam&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats-beryl-one-30.vercel.app/api/top-langs/?username=Darcythiam&layout=compact&theme=default&hide_border=true&langs_count=8" />
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Darcythiam&theme=default&hide_border=true)](https://git.io/streak-stats)
