@@ -2,7 +2,7 @@
 
 **CS @ St. Cloud State University '26** · Software Engineering · AI/ML · Cloud Systems
 
-I build end-to-end systems that combine backend engineering, data processing, and applied machine learning — from OCR and retrieval pipelines to cloud-deployed applications. My work focuses on building practical, scalable systems rather than isolated models.
+I build end-to-end systems that combine backend engineering, data processing, and applied machine learning from OCR and retrieval pipelines to cloud-deployed applications. My work focuses on building practical, scalable systems rather than isolated models.
 
 📍 Minnesota &nbsp;|&nbsp; 📬 [darcyirakoze6@gmail.com](mailto:darcyirakoze6@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/YOURHANDLE) &nbsp;|&nbsp; 🐙 [github.com/Darcythiam](https://github.com/Darcythiam)
 
