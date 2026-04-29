@@ -41,7 +41,7 @@ I build end-to-end systems combining backend engineering, data processing, and a
 
 | Project | Description | Skills |
 |---|---|---|
-| [**Document Intelligence Pipeline**](https://github.com/Darcythiam/Document-Intelligence-Externship) | End-to-end document intelligence pipeline using OCR, BM25 + embedding retrieval, and LLM-based Q&A (Gemini, TinyLlama), deployed via a Gradio interface. Gradio interface | RAG · OCR · LLM evaluation · system integration |
+| [**Document Intelligence Pipeline**](https://github.com/Darcythiam/Document-Intelligence-Externship) | End-to-end document intelligence pipeline using OCR, BM25 + embedding retrieval, and LLM-based Q&A (Gemini, TinyLlama), deployed via a Gradio interface. | Gradio interface . RAG · OCR · LLM evaluation · system integration |
 | [**Credit Risk Classifier**](https://github.com/Darcythiam/Creditrisk_project) | Classification pipeline with preprocessing, cross-validation, and hyperparameter tuning to predict credit risk | Model evaluation · pipelines · applied ML |
 | [**MN Housing Price Prediction**](https://github.com/Darcythiam/MNhousingpricepredictionML) | Regression models with feature engineering and regularization to improve generalization on housing data | Feature engineering · regression · model improvement |
 
