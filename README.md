@@ -2,9 +2,9 @@
 
 **CS @ St. Cloud State University '26** · Software Engineering · AI/ML · Cloud Systems
 
-I build end-to-end systems that combine backend engineering, data processing, and applied machine learning from OCR and retrieval pipelines to cloud-deployed applications. My work focuses on building practical, scalable systems rather than isolated models.
+I build end-to-end systems combining backend engineering, data processing, and applied machine learning from OCR and retrieval pipelines to cloud-deployed applications.
 
-📍 Minnesota &nbsp;|&nbsp; 📬 [darcyirakoze6@gmail.com](mailto:darcyirakoze6@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/YOURHANDLE) &nbsp;|&nbsp; 🐙 [github.com/Darcythiam](https://github.com/Darcythiam)
+📍 Minnesota &nbsp;|&nbsp; 📬 [darcyirakoze6@gmail.com](mailto:darcyirakoze6@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/darcyirakoze/) &nbsp;|&nbsp; 🐙 [github.com/Darcythiam](https://github.com/Darcythiam)
 
 ---
 
@@ -41,7 +41,7 @@ I build end-to-end systems that combine backend engineering, data processing, an
 
 | Project | Description | Skills |
 |---|---|---|
-| [**Document Intelligence Pipeline**](https://github.com/Darcythiam/Document-Intelligence-Externship) | End-to-end system for processing mortgage documents using OCR, retrieval (BM25 + embeddings), and LLM-based Q&A (Gemini, TinyLlama), with a Gradio interface | RAG · OCR · LLM evaluation · system integration |
+| [**Document Intelligence Pipeline**](https://github.com/Darcythiam/Document-Intelligence-Externship) | End-to-end document intelligence pipeline using OCR, BM25 + embedding retrieval, and LLM-based Q&A (Gemini, TinyLlama), deployed via a Gradio interface. Gradio interface | RAG · OCR · LLM evaluation · system integration |
 | [**Credit Risk Classifier**](https://github.com/Darcythiam/Creditrisk_project) | Classification pipeline with preprocessing, cross-validation, and hyperparameter tuning to predict credit risk | Model evaluation · pipelines · applied ML |
 | [**MN Housing Price Prediction**](https://github.com/Darcythiam/MNhousingpricepredictionML) | Regression models with feature engineering and regularization to improve generalization on housing data | Feature engineering · regression · model improvement |
 
@@ -60,22 +60,10 @@ I build end-to-end systems that combine backend engineering, data processing, an
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats-beryl-one-30.vercel.app/api?username=Darcythiam&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats-beryl-one-30.vercel.app/api/top-langs/?username=Darcythiam&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Darcythiam&theme=default&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## Building On & Exploring
 
-**Building on:** RAG pipeline evaluation and optimization · retrieval system design
-
-**Exploring:** Distributed systems and scalable backend architecture · cloud-native deployment patterns
+**Building on:** Improving RAG pipeline evaluation and retrieval optimization  
+**Exploring:** Distributed systems and scalable backend architecture
 
 ---
 
