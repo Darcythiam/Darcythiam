@@ -19,6 +19,7 @@ I build end-to-end systems combining backend engineering, data processing, and a
 **AI / Data**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B48FF?style=flat-square&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -41,7 +42,8 @@ I build end-to-end systems combining backend engineering, data processing, and a
 
 | Project | Description | Skills |
 |---|---|---|
-| [**Document Intelligence Pipeline**](https://github.com/Darcythiam/Document-Intelligence-Externship) | End-to-end document intelligence pipeline using OCR, BM25 + embedding retrieval, and LLM-based Q&A (Gemini, TinyLlama), deployed via a Gradio interface | Gradio · RAG · OCR · LLM evaluation · system integration |
+| [**Document Intelligence Pipeline**](https://github.com/Darcythiam/Document-Intelligence-Externship) | End-to-end document intelligence pipeline using OCR, BM25 + embedding retrieval, and LLM-based Q&A (Gemini, TinyLlama), deployed via a Gradio interface | RAG · OCR · LLM evaluation · Gradio · system integration |
+| [**Pneumonia Detection (CNN + ResNet50)**](https://github.com/Darcythiam/pneumonia-detection-cnn) | Binary chest X-ray classifier using a custom CNN and transfer learning with ResNet50; includes class imbalance handling and ROC/AUC evaluation. Notably, the domain-trained baseline CNN outperformed ResNet50, highlighting ImageNet–medical imaging domain mismatch | Deep learning · CNNs · transfer learning · medical imaging |
 | [**Credit Risk Classifier**](https://github.com/Darcythiam/Creditrisk_project) | Classification pipeline with preprocessing, cross-validation, and hyperparameter tuning to predict credit risk | Model evaluation · pipelines · applied ML |
 | [**MN Housing Price Prediction**](https://github.com/Darcythiam/MNhousingpricepredictionML) | Regression models with feature engineering and regularization to improve generalization on housing data | Feature engineering · regression · model improvement |
 
@@ -62,7 +64,8 @@ I build end-to-end systems combining backend engineering, data processing, and a
 
 ## Building On & Exploring
 
-**Building on:** Improving RAG pipeline evaluation and retrieval optimization  
+**Building on:** RAG pipeline optimization · CNN architecture design and transfer learning evaluation
+
 **Exploring:** Distributed systems and scalable backend architecture
 
 ---
